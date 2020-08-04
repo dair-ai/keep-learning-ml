@@ -4,11 +4,13 @@ In an effort to connect, keep learning, meet people, and share ideas, I am start
 
 This initial idea is simple. Every week we will host 1 hour sessions (via Zoom) where we have students, researchers, or practitioners talk about one ML or NLP idea, paper, tool, resource, or blog post they found interesting and just wanted to share with others. 
 
+### How to join and participate?
+
 To be a member, join the #keep-learing-ml-club channel in our Slack group. There you will find additional instructions on how to participate. 
 
 To participate, you will prepare 1-3 slides and your presentation shouldn’t last more than 5 minutes. We will all share our slides in one master slide that is accessible and editable to everyone on the group. You can also join the meeting and you don't need to present anything, it's up to you. But I challenge you to **keep learning** and sharing what you have learned.  
 
-### What to present
+### What to present?
 
 Some ideas on what to present could include but not limited to:
 - A notebook you found interesting
