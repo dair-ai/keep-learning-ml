@@ -1,6 +1,6 @@
 # Keep Learning ML Club
 
-In an effort to connect, keep learning, meet people, and share ideas, I am starting a special online learning club called Keep Learning ML. 
+In an effort to connect, keep learning, meet people, discuss and share ideas, I am starting a special online learning club called Keep Learning ML. 
 
 This initial idea is simple. Every week we will host 1 hour sessions (via Zoom) where we have students, researchers, or practitioners talk about one ML or NLP idea, paper, tool, resource, or blog post they found interesting and just wanted to share with others. 
 
@@ -23,7 +23,7 @@ Some ideas on what to present could include but not limited to:
 
 ### Why should you join? 
 
-To encourage yourself to keep learning everyday and of course to meet/connecy with awesome people in the ML community.
+To encourage yourself to keep learning everyday and of course to meet/connect with awesome people from the ML community.
 
 Please ensure to follow the code of conduct. Ideally, we want to build an inclusive community where we learn from each other but respect each other as well.
 
