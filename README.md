@@ -20,6 +20,8 @@ Some ideas on what to present could include but not limited to:
 - An ML/NLP tool you want to quickly demo
 - A piece of code
 - A piece of news on AI
+- Experience sharing on how you solved a bug or ran an ML experiment
+- Really, anything you would like to share related to machine learnining
 
 As you can see, you don't need to be an expert at anything. This is to encourage you to learn something new everyday.
 
