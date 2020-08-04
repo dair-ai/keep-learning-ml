@@ -27,7 +27,7 @@ As you can see, you don't need to be an expert at anything. This is to encourage
 
 To encourage yourself to keep learning everyday and of course to meet/connect with awesome people from the ML community.
 
-Please ensure to follow the code of conduct. Ideally, we want to build an inclusive community where we learn from each other but respect each other as well.
+Please ensure to follow the [code of conduct](https://github.com/dair-ai/dair-ai.github.io/blob/master/CODE_OF_CONDUCT.md). Ideally, we want to build an inclusive community where we learn from each other but respect each other as well.
 
 ### When do we start?
 I will announce the first meeting on our [Meetup page](https://www.meetup.com/dair-ai/) and in the Slack channel. 
