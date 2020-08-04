@@ -6,7 +6,7 @@ This initial idea is simple. Every week we will host 1 hour sessions (via Zoom) 
 
 ### How to join and participate?
 
-To become a member of the club, join the #keep-learing-ml channel in our Slack group. There you will find additional instructions on how to participate. 
+To become a member of the club, join the #keep-learing-ml channel in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g). There you will find additional instructions on how to participate. 
 
 To participate, you will prepare 1-3 slides and your presentation shouldn’t last more than 5 minutes. We will all share our slides in one master slide that is accessible and editable to everyone on the group. You can also join the meeting and you don't need to present anything, it's up to you. But I challenge you to **keep learning** and sharing what you have learned.  
 
@@ -27,6 +27,8 @@ To encourage yourself to keep learning everyday and of course to meet/connect wi
 
 Please ensure to follow the code of conduct. Ideally, we want to build an inclusive community where we learn from each other but respect each other as well.
 
+### When do we start?
+I will announce the first meeting on our [Meetup page](https://www.meetup.com/dair-ai/) and in the Slack channel. 
 
 
 
