@@ -21,6 +21,8 @@ Some ideas on what to present could include but not limited to:
 - A piece of code
 - A piece of news on AI
 
+As you can see, you don't need to be an expert at anything. This is to encourage you to learn something new everyday.
+
 ### Why should you join? 
 
 To encourage yourself to keep learning everyday and of course to meet/connect with awesome people from the ML community.
