@@ -2,7 +2,7 @@
 
 In an effort to connect, keep learning, meet people, discuss and share ideas, I am starting a special online learning club called Keep Learning ML. 
 
-This initial idea is simple. Every week we will host 1 hour sessions (via Zoom) where we have students, researchers, or practitioners talk about one ML or NLP idea, paper, tool, resource, or blog post they found interesting and just wanted to share with others. 
+This initial idea is simple. Every week we will host 1 hour sessions (via Zoom) where we have students, researchers, or practitioners present one ML or NLP idea, paper, tool, resource, or blog post they found interesting and just wanted to share with others. 
 
 ### How to join and participate?
 
