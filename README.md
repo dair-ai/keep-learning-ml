@@ -8,7 +8,7 @@ This initial idea is simple. Every week we will host 1 hour sessions (via Zoom) 
 
 To become a member of the club, join the #keep-learing-ml channel in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g). There you will find additional instructions on how to participate. 
 
-To participate, you will prepare 1-3 slides and your presentation shouldn’t last more than 5 minutes. We will all share our slides in one master slide that is accessible and editable to everyone on the group. You can also join the meeting and you don't need to present anything, it's up to you. But I challenge you to **keep learning** and sharing what you have learned.  
+To participate, you can prepare 1-3 slides and your presentation shouldn’t last more than 5 minutes. This is an information presentation and we will all share our slides in one main presentation that is accessible and editable to everyone on the group. You can also join the meeting and you don't need to present anything, it's up to you. But I challenge you to **keep learning** and sharing what you have learned.  
 
 ### What to present?
 
