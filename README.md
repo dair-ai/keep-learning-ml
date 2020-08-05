@@ -8,7 +8,7 @@ This initial idea is simple. Every week we will host 1 hour sessions (via Zoom) 
 
 To become a member of the club, join the #keep-learing-ml channel in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g). There you will find additional instructions on how to participate. 
 
-To participate, you can prepare 1-3 slides and your presentation shouldn’t last more than 5 minutes. This is an information presentation and we will all share our slides in one main presentation that is accessible and editable to everyone on the group. You can also join the meeting and you don't need to present anything, it's up to you. But I challenge you to **keep learning** and sharing what you have learned.  
+To participate, you can prepare 1-3 slides and your presentation shouldn’t last more than 5 minutes. This is an information sharing presentation where we will share all our slides in one main presentation that is accessible and editable to everyone on the group. You can also join the meeting and you don't need to present anything, it's up to you. But I challenge you to **keep learning** and sharing what you have learned.  
 
 ### What to present?
 
@@ -20,14 +20,16 @@ Some ideas on what to present could include but not limited to:
 - An ML/NLP tool you want to quickly demo
 - A piece of code
 - A piece of news on AI
+- A philosophical/ethical view of ML
+- A topic about AI's broader impact on society
 - Experience sharing on how you solved a bug or ran an ML experiment
 - Really, anything you would like to share related to machine learning
 
-As you can see, you don't need to be an expert at anything. This is to encourage you to learn something new everyday.
+As you can see, you don't need to be an expert at anything. This is to encourage you to learn something new everyday and share with the community. I discourage self-promotion, ads, or talking about commercial products. We want to focus on accessible information and open source.
 
 ### Why should you join? 
 
-To encourage yourself to keep learning everyday and of course to meet/connect with awesome people from the ML community.
+To encourage yourself to keep learning everyday and, of course, to meet/connect with awesome people from the ML community.
 
 Please ensure to follow the [code of conduct](https://github.com/dair-ai/dair-ai.github.io/blob/master/CODE_OF_CONDUCT.md). Ideally, we want to build an inclusive community where we learn from each other but respect each other as well.
 
