@@ -17,6 +17,7 @@ Some ideas on what to present could include but not limited to:
 - A mathematical concept used in ML
 - An interesting paper you came across
 - An interesting ML/NLP resource
+- Exploring a new dataset
 - An ML/NLP tool you want to quickly demo
 - A piece of code
 - A piece of news on AI
