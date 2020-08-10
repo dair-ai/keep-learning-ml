@@ -34,8 +34,13 @@ To encourage yourself to keep learning everyday and, of course, to meet/connect 
 
 Please ensure to follow the [code of conduct](https://github.com/dair-ai/dair-ai.github.io/blob/master/CODE_OF_CONDUCT.md). Ideally, we want to build an inclusive community where we learn from each other but respect each other as well.
 
-### When do we start?
-I will announce the first meeting on our [Meetup page](https://www.meetup.com/dair-ai/) and in the Slack channel. 
+### Schedule
+Find announcement and Zoom invites to the upcoming sessions on our [Meetup page](https://www.meetup.com/dair-ai/). 
+
+| Session | Date | Topics | Slide | Video Recording |
+|----|----|-----|----|-----|
+| #1 | August 7, 2020 | Introducing Keep Learning ML, DVC, CompLex, Modern Tools for Emotions | [Google Slides](https://docs.google.com/presentation/d/1QTgXuG5DRQVJgDsxKL4SAxpJBYJxF3-AosEJK-Uf8ZE/edit#slide=id.p), [PDF](https://www.dropbox.com/s/gbnbgb7d1zi6wi7/Keep%20Learning%20ML%20Club%20-%20Session%20%231.pdf?dl=0) | [YouTube](https://www.youtube.com/watch?v=i4H2rWtdJB8)
+
 
 
 
