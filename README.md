@@ -38,6 +38,8 @@ To encourage yourself to keep learning everyday and, of course, to meet/connect 
 
 Please ensure to follow the [code of conduct](https://github.com/dair-ai/dair-ai.github.io/blob/master/CODE_OF_CONDUCT.md). Ideally, we want to build an inclusive community where we learn from each other but respect each other as well.
 
+#Rady idea:
+
 
 
 
